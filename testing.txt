@@ -1,1 +1,0 @@
-In the above approaches, every time the file is opened it is needed to be closed explicitly. If one forgets to close the file
